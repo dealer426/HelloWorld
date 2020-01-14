@@ -30,6 +30,10 @@ namespace HelloWorld
             int thirdNumber = 128;
             System.Console.WriteLine( thirdNumber);
 
+            string firstName = "Jim";
+
+            System.Console.WriteLine(firstName);
+
             Console.ReadLine();
 
         }
