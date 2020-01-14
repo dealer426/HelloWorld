@@ -23,6 +23,10 @@ namespace HelloWorld
 
             Console.WriteLine("Here is my name " + userName + " and number {0} ", myNumber);
 
+            int secondNumber = 56;
+
+            Console.WriteLine(secondNumber);
+
             Console.ReadLine();
 
         }
