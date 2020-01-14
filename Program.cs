@@ -27,6 +27,9 @@ namespace HelloWorld
 
             Console.WriteLine(secondNumber);
 
+            int thirdNumber = 128;
+            System.Console.WriteLine( thirdNumber);
+
             Console.ReadLine();
 
         }
