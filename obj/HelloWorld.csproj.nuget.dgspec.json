@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burns\\source\\repos\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\burns\\source\\repos\\helloworld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burns\\source\\repos\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\burns\\source\\repos\\helloworld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burns\\source\\repos\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\burns\\source\\repos\\helloworld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\burns\\source\\repos\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\burns\\source\\repos\\helloworld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\burns\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burns\\source\\repos\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\burns\\source\\repos\\helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\burns\\AppData\\Roaming\\NuGet\\NuGet.Config",
